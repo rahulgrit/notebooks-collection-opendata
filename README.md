@@ -7,7 +7,7 @@ In order to access the code, you first must make a GitHub account. If you alread
  2. Fill in the registration form; it's free and you'll only need a valid email address to join.
  3. Once you've validated your account, ensure you're logged in.
  4. Fork this repository by clicking on: 
- <center>![Alt text](https://github.com/amcdouga/Screenshots/blob/master/Screen%20Shot%202020-05-28%20at%205.56.17%20pm.png)</center>
+    ![Alt text](https://github.com/amcdouga/Screenshots/blob/master/Screen%20Shot%202020-05-28%20at%205.56.17%20pm.png)
     near the top right hand corner. This creates your own personal copy of the master branch for you to edit and run. 
 
 ### To launch the binder:
