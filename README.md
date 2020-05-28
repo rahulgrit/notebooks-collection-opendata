@@ -12,13 +12,13 @@ In order to access the code, you first must make a GitHub account. If you alread
 
 ### To launch the binder:
 Click on the link below titled "launch binder" to access the code.
- - Note if it's the first time running, it may take up to 15 minutes to load and build the environment. 
+ - Note if it's the first time running, it may take up to 15 minutes to load and build the environment. Be patient.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amcdouga/notebooks-collection-opendata/master)
 
 ## Editing the code:
 ### Via GitHub:
-Individual files can be edited either through GitHub, or once you've launched the binder. Be patient.
+Individual files can be edited either through GitHub, or once you've launched the binder.
 For example on GitHub, the main page of your fork should something like this:
 ![](https://github.com/amcdouga/Screenshots/blob/master/Screen%20Shot%202020-05-28%20at%206.06.21%20pm.png)
 
