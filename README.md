@@ -1,7 +1,7 @@
 # Analysing the ATLAS open datasets
-The binder below contains a collection of simple python notebooks to analyse the ATLAS Open Data datasets.
+The binder contains a collection of simple python notebooks to analyse the ATLAS Open Data datasets.
 
-Click on the link below to access the binder.
+Click on the link below titled `launch Binder` to access the binder.
 
 Note if it's the first time running, it may take up to 15 minutes to load and build the environment. 
 
