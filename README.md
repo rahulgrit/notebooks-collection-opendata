@@ -1,7 +1,11 @@
 # Analysing the ATLAS open datasets
-
-### Instructions to get set-up:
 The binder contains a collection of simple python notebooks to analyse the ATLAS Open Data datasets.
+
+## Instructions to get set-up:
+In order to access the code, you first must make a GitHub account. If you already have one, skip ahead to step number \ref{}. 
+ 1. Go to: <https://github.com>,
+ 2. Fill in the registration form; it's free and you'll only need a valid email address to join.
+ 3. 
 
 Click on the link below titled "launch binder" to access the code.
 
