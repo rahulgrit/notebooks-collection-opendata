@@ -17,13 +17,17 @@ Click on the link below titled "launch binder" to access the code.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amcdouga/notebooks-collection-opendata/master)
 
 ## Editing the code:
+### Via GitHub:
 Individual files can be edited either through GitHub, or once you've launched the binder.
 For example on GitHub, the main page of your fork should something like this:
 ![](https://github.com/amcdouga/Screenshots/blob/master/Screen%20Shot%202020-05-28%20at%206.06.21%20pm.png)
 
 If you click on the folder titled `13-TeV-examples`, then `python`, and then select file `ATLAS_OpenData_13-TeV_python_full_HyyAnalysis_5min.ipynb`, you can then edit this file by clicking the edit ![](https://github.com/amcdouga/Screenshots/blob/master/Screen%20Shot%202020-05-28%20at%206.11.34%20pm.png) button. 
 
-### Optional:
+### Via the Binder:
+Once the Binder has loaded, simply click through the folders till you find a file you want to edit. Again, for example, if you click on the folder titled `13-TeV-examples`, then `python`, and then select file `ATLAS_OpenData_13-TeV_python_full_HyyAnalysis_5min.ipynb`, you can directly edit any code which has `In []` written to the left of each piece of code.
+
+### Optional (not-so-trivial) was to edit code:
 Rather than using the GitHub browser/Binder to read and edit code, you might want to have a copy of your local machine. This way you can edit the code locally (useful if you have an unstable internet connection for example), push your changes to your fork, and then return to this page to load the binder and run the code. (Note you won't be able to run the code locally unless you have ROOT installed). For instructions on how to clone a repository on GitHub, see this page: <https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository>
 
 @2020
