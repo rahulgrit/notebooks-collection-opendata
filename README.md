@@ -18,7 +18,7 @@ Click on the link below titled "launch binder" to access the code.
 
 ## Editing the code:
 ### Via GitHub:
-Individual files can be edited either through GitHub, or once you've launched the binder.
+Individual files can be edited either through GitHub, or once you've launched the binder. Be patient.
 For example on GitHub, the main page of your fork should something like this:
 ![](https://github.com/amcdouga/Screenshots/blob/master/Screen%20Shot%202020-05-28%20at%206.06.21%20pm.png)
 
