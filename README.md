@@ -3,7 +3,7 @@ The binder below contains a collection of simple python notebooks to analyse the
 
 Click on the link below to access the binder.
 
-Note if it's the first time running, it may take up to 5 minutes to load. 
+Note if it's the first time running, it may take up to 15 minutes to load and build the environment. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amcdouga/notebooks-collection-opendata/master)
 
