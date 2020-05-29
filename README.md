@@ -14,7 +14,7 @@ In order to access the code, you first must make a GitHub account. If you alread
 Click on the link below titled "launch binder" to access the code.
  - Note if it's the first time running, it may take up to 15 minutes to load and build the environment. Be patient.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amcdouga/notebooks-collection-opendata/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rahulgrit/notebooks-collection-opendata/patch-1)
 
 ## Editing the code:
 ### Via GitHub:
